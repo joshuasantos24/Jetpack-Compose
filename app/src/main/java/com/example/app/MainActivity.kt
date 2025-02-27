@@ -58,7 +58,6 @@ private fun PersonalData(name: String) {
             Text(text = "Soy Joshua")
             Text(text = "Estoy en camino a aprender jetpack compose")
             MyComponent()
-            // Integración de la lista en la misma pantalla:
             ListExample()
         }
     }
